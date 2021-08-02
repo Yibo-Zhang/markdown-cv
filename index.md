@@ -1,91 +1,148 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Yibo Zhang's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Yibo Zhang
+PhD candidate in Chemistry, University of New Hampshire
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mucherzhang@hotmail.com">mucherzhang@hotmail.com</a>
+| <a >308646106</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
-
+Intesting in materials science and machine learning 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Quantum mechanics, Materials scinece, NWchem, VASP, data mining, Linux, Web development 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`Sep 2018-Now`
+__University of New Hampshire, Durham.__
+- Computational Chemistry
+- GPA: 3.69/4.0
+- PhD Candidate
 
 
+`Aug 2015-May 2017`
+__Stony Brook University, New York__
 
-## Awards
+- Materials Science and Engineering
+- GPA: 3.56/4.0 
+- Master’s Degree
 
-`2012`
-President, *Royal Society*, London, UK
+`Sep 2011-Jul. 2015`
+__Zhengzhou University, China__
+- Materials Chemistry, College of Materials Sciences and Engineering
+- GPA: 3.40/4.0
+- Bachelor’s Degree
 
-Associate, *French Academy of Science*, Paris, France
+## Professional Experience
 
+`Mar. 2021 – Now`
+__Machine learning methods for reconstruction magnetisation distributions__
+- Supervisor: Prof. Jiadong Zang
+- Use Tensorflow to build Generative Adversarial Network (GAN) model
+- Use Julia package to generate magnetic phase
+- Use numpy/numba to accelerate calculation speed
+- Work with Supercomputer
+- Plot with matplotlib
 
+`Nov. 2020 - May 2021`
+__Permanent magnets calculation__
+- Supervisor: Prof. Jiadong Zang
+- Find potential Permanent magnets in database with python.
+- Use VASP to calculate potential materials’ magnetic property.
 
-## Publications
+`Nov. 2018- Oct. 2020`
+__Computational work on the study of Metal organic framework__
+- Supervisor: Prof. Craig Chapman
+- Maintain a Linux server for computational work.
+- Use python script to analyze data
+- Use Jupyter notebook and python to manipulate the chemistry structure and generate input file
+- Use SSH to submit calculation job to supercomputer
+- DFT calculation to study the property of molecule
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+`Nov. 2016-Oct. 2017`
+__Application of biochar for the removal of pollutants from water__
+- Supervisor: Prof. Alexander Orlov
+- Prepare biochar and study the preparation condition’s affection on biochar.
+- Study the biochar’s PH, surface charge and explore its surface structure
+- Study the biochar porosity with BET
+- Study biochar’s absorption ability to nitrate and compare it with active carbon’s.
 
-### Journals
+`Sep. 2016-Nov. 2016`
+__Butterfly wing vapor sensor__
+- Supervisor: Prof. Alexander Orlov
+- Study the butterfly wing surface structure
+- Explore different gas environment’s affection on butterfly wing reflection peak shift
+- Study TiO2 and gold coating's affection on butterfly wing’s surface structure
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+`May 2016-Sep. 2016`
+__Dust removal by a standing wave electric curtain__
+- Supervisor: Prof. Alexander Orlov
+- Make the electric curtain pattern with coated PEDOT:PSS, 3D-print conductive polymer and CVD copper wire.
+- Simulate the dust with ground sand, nanoparticle and ground biochar
+- Simulate the dust removal process with different voltage and different inclination angle
 
-`1669`
-Lectiones opticæ.
+`Nov. 2015-May 2016`
+__Self-cleaning coating__
+- Supervisor: Prof. Alexander Orlov
+- Compare hydrophilic difference between spinning coating’s sample and spray gun’s sample
+- Explore the relationship between coating thickness and transparence.
+- Explore the relationship between self-cleaning surface and stearic acid degradation rate.
+- Simulate dust deposition process.
+- Study The Impact of inclination angle on dust deposition.
 
-etc. etc. etc.
+`Aug. 2014-Jun. 2015`
+__Membrane electrode preparation and characterization__
+- Supervisor: Prof. Qun XU
+- Preparation of MoS2/CNT membrane
+- Characterize membrane Internal structure by SEM, XRD, TGA
+- Test Charge and discharge performance of charge and discharge performance
 
-### Patents
+## Online learning and books
+### Coursera
+- Machine Learning by Stanford University 
+- Programming Languages, Part A 
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+### freeCodeCamp
+- JavaScript Algorithms and Data Structures 
+- Legacy Back End
 
+### Udemy
+- Angular – The Complete Guide
+- PHP for Beginners – Become a PHP Master
 
-## Occupation
+### Books
+- C++ primer plus (book)
+- linux from scratch (book)
 
-`1600`
-__Royal Mint__, London
+## Computer-related Skills
 
-- Warden
-- Minted coins
+- Python, Tensroflow, Numpy, Pandas, Matplotlib, Scikit-learn
+- Javascript, HTML, CSS, PHP, React, Angular 
+- Bash script, Linux, SSH
+- C++, MongoDB
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+## Work experience
+`09/2019 - Now`
+- Research assistant - University of New Hampshire
+
+`08/2018 – 09/2019`
+- Teaching assistant - University of New Hampshire
+
+`10/2015 - 02/2017`
+- Research assistant - Stony Brook University
+
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: May 2021 -->
 
 
