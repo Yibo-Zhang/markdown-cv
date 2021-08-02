@@ -6,7 +6,7 @@ title: Yibo Zhang's CV
 PhD candidate in Chemistry, University of New Hampshire
 
 <div id="webaddress">
-<a href="mucherzhang@hotmail.com">mucherzhang@hotmail.com</a>
+<a>mucherzhang@hotmail.com</a>
 | <a >308646106</a>
 </div>
 
@@ -16,7 +16,7 @@ PhD candidate in Chemistry, University of New Hampshire
 Intesting in materials science and machine learning 
 ### Specialized in
 
-Quantum mechanics, Materials scinece, NWchem, VASP, data mining, Linux, Web development 
+Quantum mechanics, Density function theory, Materials scinece, NWchem, VASP, data mining, Linux, Web development 
 
 ## Education
 
@@ -44,7 +44,7 @@ __Zhengzhou University, China__
 
 `Mar. 2021 – Now`
 __Machine learning methods for reconstruction magnetisation distributions__
-- Supervisor: Prof. Jiadong Zang
+- _Supervisor: Prof. Jiadong Zang_
 - Use Tensorflow to build Generative Adversarial Network (GAN) model
 - Use Julia package to generate magnetic phase
 - Use numpy/numba to accelerate calculation speed
@@ -53,13 +53,13 @@ __Machine learning methods for reconstruction magnetisation distributions__
 
 `Nov. 2020 - May 2021`
 __Permanent magnets calculation__
-- Supervisor: Prof. Jiadong Zang
+- _Supervisor: Prof. Jiadong Zang_
 - Find potential Permanent magnets in database with python.
 - Use VASP to calculate potential materials’ magnetic property.
 
 `Nov. 2018- Oct. 2020`
 __Computational work on the study of Metal organic framework__
-- Supervisor: Prof. Craig Chapman
+- _Supervisor: Prof. Craig Chapman_
 - Maintain a Linux server for computational work.
 - Use python script to analyze data
 - Use Jupyter notebook and python to manipulate the chemistry structure and generate input file
@@ -68,7 +68,7 @@ __Computational work on the study of Metal organic framework__
 
 `Nov. 2016-Oct. 2017`
 __Application of biochar for the removal of pollutants from water__
-- Supervisor: Prof. Alexander Orlov
+- _Supervisor: Prof. Alexander Orlov_
 - Prepare biochar and study the preparation condition’s affection on biochar.
 - Study the biochar’s PH, surface charge and explore its surface structure
 - Study the biochar porosity with BET
@@ -76,21 +76,21 @@ __Application of biochar for the removal of pollutants from water__
 
 `Sep. 2016-Nov. 2016`
 __Butterfly wing vapor sensor__
-- Supervisor: Prof. Alexander Orlov
+- _Supervisor: Prof. Alexander Orlov_
 - Study the butterfly wing surface structure
 - Explore different gas environment’s affection on butterfly wing reflection peak shift
 - Study TiO2 and gold coating's affection on butterfly wing’s surface structure
 
 `May 2016-Sep. 2016`
 __Dust removal by a standing wave electric curtain__
-- Supervisor: Prof. Alexander Orlov
+- _Supervisor: Prof. Alexander Orlov_
 - Make the electric curtain pattern with coated PEDOT:PSS, 3D-print conductive polymer and CVD copper wire.
 - Simulate the dust with ground sand, nanoparticle and ground biochar
 - Simulate the dust removal process with different voltage and different inclination angle
 
 `Nov. 2015-May 2016`
 __Self-cleaning coating__
-- Supervisor: Prof. Alexander Orlov
+- _Supervisor: Prof. Alexander Orlov_
 - Compare hydrophilic difference between spinning coating’s sample and spray gun’s sample
 - Explore the relationship between coating thickness and transparence.
 - Explore the relationship between self-cleaning surface and stearic acid degradation rate.
@@ -99,7 +99,7 @@ __Self-cleaning coating__
 
 `Aug. 2014-Jun. 2015`
 __Membrane electrode preparation and characterization__
-- Supervisor: Prof. Qun XU
+- _Supervisor: Prof. Qun XU_
 - Preparation of MoS2/CNT membrane
 - Characterize membrane Internal structure by SEM, XRD, TGA
 - Test Charge and discharge performance of charge and discharge performance
@@ -129,13 +129,13 @@ __Membrane electrode preparation and characterization__
 - C++, MongoDB
 
 ## Work experience
-`09/2019 - Now`
+`Aug. 2019 - Now`
 - Research assistant - University of New Hampshire
 
-`08/2018 – 09/2019`
+`Aug. 2018 – Aug. 2019`
 - Teaching assistant - University of New Hampshire
 
-`10/2015 - 02/2017`
+`Oct. 2015 - Jan. 2017`
 - Research assistant - Stony Brook University
 
 
