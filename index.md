@@ -118,8 +118,8 @@ __Membrane electrode preparation and characterization__
 - PHP for Beginners – Become a PHP Master
 
 ### Books
-- C++ primer plus (book)
-- linux from scratch (book)
+- C++ primer plus
+- Linux from scratch
 
 ## Computer-related Skills
 
