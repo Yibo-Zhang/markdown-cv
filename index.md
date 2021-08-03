@@ -6,8 +6,8 @@ title: Yibo Zhang's CV
 PhD candidate in Chemistry, University of New Hampshire
 
 <div id="webaddress">
-<a>mucherzhang@hotmail.com</a>
-| <a >308646106</a>
+<i class="fa fa-envelope-square"></i> <a>mucherzhang@hotmail.com</a>
+| <i class="fa fa-phone-square"></i> <a >308646106</a>
 </div>
 
 
