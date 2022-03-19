@@ -143,7 +143,7 @@ __Georgia Institute of Technology, OMSCS.__
 __University of New Hampshire, Durham.__
 
 - Computational Chemistry
-- GPA: 3.69/4.0
+<!-- - GPA: 3.69/4.0 -->
 - PhD Candidate
 
 
@@ -151,14 +151,14 @@ __University of New Hampshire, Durham.__
 __Stony Brook University, New York__
 
 - Materials Science and Engineering
-- GPA: 3.56/4.0 
+<!-- - GPA: 3.56/4.0 -->
 - Master’s Degree
 
 `Sep. 2011-Jul. 2015`
 __Zhengzhou University, China__
 
 - Materials Chemistry, College of Materials Sciences and Engineering
-- GPA: 3.40/4.0
+<!-- - GPA: 3.40/4.0 -->
 - Bachelor’s Degree
 
 
