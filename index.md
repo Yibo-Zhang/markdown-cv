@@ -16,40 +16,63 @@ PhD candidate in Chemistry, University of New Hampshire
 Intesting in materials science and machine learning 
 ### Specialized in
 
-Quantum mechanics, Density function theory, Materials scinece, NWchem, VASP, data mining, Linux, Web development 
+Quantum mechanics, Materials scinece, Data mining, Linux, Web development, Big data, SQL, Data visualization, Machine Learning
 
 ## Education
 
-`Sep 2018-Now`
+`Jan. 2022-Now`
+__Georgia Institute of Technology, OMSCS.__
+
+- Computer science
+- Master's Degree
+
+`Sep. 2018-Now`
 __University of New Hampshire, Durham.__
+
 - Computational Chemistry
 - GPA: 3.69/4.0
 - PhD Candidate
 
 
-`Aug 2015-May 2017`
+`Aug. 2015-May 2017`
 __Stony Brook University, New York__
 
 - Materials Science and Engineering
 - GPA: 3.56/4.0 
 - Master’s Degree
 
-`Sep 2011-Jul. 2015`
+`Sep. 2011-Jul. 2015`
 __Zhengzhou University, China__
+
 - Materials Chemistry, College of Materials Sciences and Engineering
 - GPA: 3.40/4.0
 - Bachelor’s Degree
 
 ## Professional Experience
 
-`Mar. 2021 – Now`
-__Machine learning methods for reconstruction magnetisation distributions__
+
+`Mar. 2022 – Now`
+__Magnetic vector field reconstruction__
+
 - _Supervisor: Prof. Jiadong Zang_
-- Use Tensorflow to build Generative Adversarial Network (GAN) model
-- Use Julia package to generate magnetic phase
-- Use numpy/numba to accelerate calculation speed
-- Work with Supercomputer
-- Plot with matplotlib
+- Generate Magnetic vector field training data with Julia
+- Apply U-Net convolutional neural network
+- Train model with GPU acceleration
+- Analyze the prediction accuracy 
+
+
+`Mar. 2021 – Now`
+__ Using Generative Adversarial Network (GAN) to reconstruct Magnetic Property from projection images__
+
+- _Supervisor: Prof. Jiadong Zang_
+- Build an autoencoder to analyze data in manifold space
+- Build generator to predict the three-dimentional magnetic property
+- Building a discriminator to distinguish the generated magnetism from real and fake
+- Assemble the generator and discriminator to form a Generative Adversarial Network (GAN) model
+- Let two models learn against each other to improve their accuracy
+- Work with Computer clusters to accelerate training time 
+
+
 
 `Nov. 2020 - May 2021`
 __Permanent magnets calculation__
@@ -65,6 +88,8 @@ __Computational work on the study of Metal organic framework__
 - Use Jupyter notebook and python to manipulate the chemistry structure and generate input file
 - Use SSH to submit calculation job to supercomputer
 - DFT calculation to study the property of molecule
+
+<!---
 
 `Nov. 2016-Oct. 2017`
 __Application of biochar for the removal of pollutants from water__
@@ -83,6 +108,7 @@ __Butterfly wing vapor sensor__
 
 `May 2016-Sep. 2016`
 __Dust removal by a standing wave electric curtain__
+
 - _Supervisor: Prof. Alexander Orlov_
 - Make the electric curtain pattern with coated PEDOT:PSS, 3D-print conductive polymer and CVD copper wire.
 - Simulate the dust with ground sand, nanoparticle and ground biochar
@@ -104,6 +130,8 @@ __Membrane electrode preparation and characterization__
 - Characterize membrane Internal structure by SEM, XRD, TGA
 - Test Charge and discharge performance of charge and discharge performance
 
+-->
+
 ## Online learning and books
 ### Coursera
 - Machine Learning by Stanford University 
@@ -117,32 +145,31 @@ __Membrane electrode preparation and characterization__
 - Angular – The Complete Guide
 - PHP for Beginners – Become a PHP Master
 
-### Books
-- C++ primer plus
-- Linux from scratch
-
 ## Computer-related Skills
 
-- Python, Tensroflow, Numpy, Pandas, Matplotlib, Scikit-learn
+- Tensroflow, PyTorch, Numpy, Pandas, Scikit-learn, Microsoft Machine Learning Studio 
+- Linux, Bash script, Docker
+- D3, Matplotlib, Gnuplot
+- SQL, PySpark, Scala/Spark, OpenRefine, Tableau
+- AWS, GCP
 - Javascript, HTML, CSS, PHP, React, Angular 
-- Bash script, Linux, SSH
-- C++, MongoDB
 
 ## Work experience
 `Aug. 2019 - Now`
+
 - Research assistant - University of New Hampshire
 
 `Aug. 2018 – Aug. 2019`
+
 - Teaching assistant - University of New Hampshire
 
 `Oct. 2015 - Jan. 2017`
-- Research assistant - Stony Brook University
 
+- Research assistant - Stony Brook University
 
 
 
 <!-- ### Footer
 
 Last updated: May 2021 -->
-
 
