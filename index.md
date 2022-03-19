@@ -41,7 +41,7 @@ __Using Generative Adversarial Network (GAN) to reconstruct Magnetic Property fr
 - Using the projection algorithm to project the three-dimensional magnetic structure into a two-dimensional picture
 - Build an autoencoder to analyze input images in manifold space
 - Build a generator to predict 3D magnetic properties by learning from input images
-- Building a discriminator to distinguish between real and fake generated magnetic structures
+- Build a discriminator to distinguish between real and fake generated magnetic structures
 - Assemble the generator and discriminator to form a Generative Adversarial Network (GAN) model
 - Let two models learn against each other to improve their accuracy
 - Work with Computer clusters to accelerate training time 
