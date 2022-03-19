@@ -31,14 +31,14 @@ __Magnetic vector field reconstruction__
 - Use U-Net convolutional neural networks to learn projected image-magnetic structure relationships 
 - Train model with GPU acceleration
 - Analyze the prediction accuracy 
-- The unet model can give accurate magnetic structure predictions by inputting random projection images
+- The U-Net model can give accurate magnetic structure predictions by inputting random projection images
 
 
 `Mar. 2021 – Now`
 __Using Generative Adversarial Network (GAN) to reconstruct Magnetic Property from projection images__
 
 - _Supervisor: Prof. Jiadong Zang_
-- Use the projection algorithm to project the three-dimensional magnetic structure into a two-dimensional picture
+- Use the projection algorithm to project the three-dimensional magnetic structure into two-dimensional pictures
 - Build an autoencoder to analyze input images in manifold space
 - Build a generator to predict 3D magnetic properties by learning from input images
 - Build a discriminator to distinguish between real and fake generated magnetic structures
