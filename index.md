@@ -16,7 +16,7 @@ PhD candidate in Chemistry, University of New Hampshire
 Intesting in materials science and machine learning 
 ### Specialized in
 
-Machine Learning, Quantum mechanics, Data mining, Linux, Web development, Big data, SQL, Data visualization
+Machine Learning, Deep Learning, Data mining, Linux, Web development, Big data, SQL, Data visualization
 
 
 
@@ -38,9 +38,9 @@ __Magnetic vector field reconstruction__
 __Using Generative Adversarial Network (GAN) to reconstruct Magnetic Property from projection images__
 
 - _Supervisor: Prof. Jiadong Zang_
-- Build an autoencoder to analyze data in manifold space
-- Build generator to predict the three-dimentional magnetic property
-- Building a discriminator to distinguish the generated magnetism from real and fake
+- Build an autoencoder to analyze input images in manifold space
+- Build a generator to predict 3D magnetic properties by learning from input images
+- Building a discriminator to distinguish between real and fake generated magnetic structures
 - Assemble the generator and discriminator to form a Generative Adversarial Network (GAN) model
 - Let two models learn against each other to improve their accuracy
 - Work with Computer clusters to accelerate training time 
@@ -54,7 +54,7 @@ __Computational work on the study of Metal organic framework__
 - Maintain a Linux server for computational work.
 - Use python script to analyze data
 - Use Jupyter notebook and python to manipulate the chemistry structure and generate input file
-- Use SSH to submit calculation job to supercomputer
+- Remote manipulation of supercomputers
 - Density functional theory calculation to study the property of molecule
 
 
