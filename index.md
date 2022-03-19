@@ -16,7 +16,7 @@ PhD candidate in Chemistry, University of New Hampshire
 Intesting in materials science and machine learning 
 ### Specialized in
 
-Quantum mechanics, Materials scinece, Data mining, Linux, Web development, Big data, SQL, Data visualization, Machine Learning
+Machine Learning, Quantum mechanics, Data mining, Linux, Web development, Big data, SQL, Data visualization
 
 
 
