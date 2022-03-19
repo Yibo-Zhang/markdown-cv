@@ -121,20 +121,21 @@ __Membrane electrode preparation and characterization__
 - PHP for Beginners – Become a PHP Master
 -->
 
-## Computer-related Skills
+## Computer science-related Skills
 
 - Tensroflow, PyTorch, Numpy, Pandas, Scikit-learn, Microsoft Machine Learning Studio 
 - Linux, Bash script, Docker
 - D3, Matplotlib, Gnuplot
 - SQL, PySpark, Scala/Spark, OpenRefine, Tableau
 - AWS, GCP
-- Javascript, HTML, CSS, PHP, React, Angular 
+- Javascript, HTML, CSS, 
+<!-- - PHP, React, Angular -->
 
 
 ## Education
 
 `Jan. 2022-Now`
-__Georgia Institute of Technology, OMSCS.__
+__Georgia Institute of Technology, Online.__
 
 - Computer science
 - Master's Degree
