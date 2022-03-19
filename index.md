@@ -132,8 +132,6 @@ __Membrane electrode preparation and characterization__
 - Preparation of MoS2/CNT membrane
 - Characterize membrane Internal structure by SEM, XRD, TGA
 - Test Charge and discharge performance of charge and discharge performance
--->
-
 
 
 ## Online learning and books
@@ -148,6 +146,7 @@ __Membrane electrode preparation and characterization__
 ### Udemy
 - Angular – The Complete Guide
 - PHP for Beginners – Become a PHP Master
+-->
 
 ## Computer-related Skills
 
