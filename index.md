@@ -92,6 +92,8 @@ __Computational work on the study of Metal organic framework__
 
 
 
+<!---
+
 `Nov. 2016-Oct. 2017`
 __Application of biochar for the removal of pollutants from water__
 - _Supervisor: Prof. Alexander Orlov_
@@ -130,6 +132,7 @@ __Membrane electrode preparation and characterization__
 - Preparation of MoS2/CNT membrane
 - Characterize membrane Internal structure by SEM, XRD, TGA
 - Test Charge and discharge performance of charge and discharge performance
+-->
 
 
 
@@ -154,6 +157,7 @@ __Membrane electrode preparation and characterization__
 - SQL, PySpark, Scala/Spark, OpenRefine, Tableau
 - AWS, GCP
 - Javascript, HTML, CSS, PHP, React, Angular 
+
 
 ## Work experience
 `Aug. 2019 - Now`
