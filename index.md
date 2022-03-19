@@ -62,7 +62,7 @@ __Magnetic vector field reconstruction__
 
 
 `Mar. 2021 – Now`
-__ Using Generative Adversarial Network (GAN) to reconstruct Magnetic Property from projection images__
+__Using Generative Adversarial Network (GAN) to reconstruct Magnetic Property from projection images__
 
 - _Supervisor: Prof. Jiadong Zang_
 - Build an autoencoder to analyze data in manifold space
