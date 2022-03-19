@@ -51,7 +51,7 @@ __Zhengzhou University, China__
 ## Professional Experience
 
 
-`Mar. 2022 – Now`
+`Jan. 2022 – Now`
 __Magnetic vector field reconstruction__
 
 - _Supervisor: Prof. Jiadong Zang_
