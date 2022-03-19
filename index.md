@@ -55,7 +55,7 @@ __Computational work on the study of Metal organic framework__
 - Use python script to analyze data
 - Use Jupyter notebook and python to manipulate the chemistry structure and generate input file
 - Use SSH to submit calculation job to supercomputer
-- DFT calculation to study the property of molecule
+- Density functional theory calculation to study the property of molecule
 
 
 
