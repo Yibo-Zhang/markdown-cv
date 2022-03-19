@@ -59,6 +59,7 @@ __Magnetic vector field reconstruction__
 - Apply U-Net convolutional neural network
 - Train model with GPU acceleration
 - Analyze the prediction accuracy 
+- The unet model can give accurate magnetic structure predictions by inputting random projection images
 
 
 `Mar. 2021 – Now`
@@ -71,8 +72,7 @@ __Using Generative Adversarial Network (GAN) to reconstruct Magnetic Property fr
 - Assemble the generator and discriminator to form a Generative Adversarial Network (GAN) model
 - Let two models learn against each other to improve their accuracy
 - Work with Computer clusters to accelerate training time 
-
-
+- GAN models can predict magnetic structure by learning from projected images
 
 `Nov. 2020 - May 2021`
 __Permanent magnets calculation__
