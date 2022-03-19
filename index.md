@@ -46,11 +46,6 @@ __Using Generative Adversarial Network (GAN) to reconstruct Magnetic Property fr
 - Work with Computer clusters to accelerate training time 
 - GAN models can predict magnetic structure by learning from projected images
 
-`Nov. 2020 - May 2021`
-__Permanent magnets calculation__
-- _Supervisor: Prof. Jiadong Zang_
-- Find potential Permanent magnets in database with python.
-- Use VASP to calculate potential materials’ magnetic property.
 
 `Nov. 2018- Oct. 2020`
 __Computational work on the study of Metal organic framework__
@@ -65,6 +60,11 @@ __Computational work on the study of Metal organic framework__
 
 
 <!---
+`Nov. 2020 - May 2021`
+__Permanent magnets calculation__
+- _Supervisor: Prof. Jiadong Zang_
+- Find potential Permanent magnets in database with python.
+- Use VASP to calculate potential materials’ magnetic property.
 
 `Nov. 2016-Oct. 2017`
 __Application of biochar for the removal of pollutants from water__
