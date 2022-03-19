@@ -27,8 +27,8 @@ Machine Learning, Deep Learning, Data mining, Linux, Web development, Big data, 
 __Magnetic vector field reconstruction__
 
 - _Supervisor: Prof. Jiadong Zang_
-- Generate Magnetic vector field training data with Julia
-- Apply U-Net convolutional neural network
+- Generate Magnetic vector field training dataset with Julia
+- Using U-Net convolutional neural networks to learn projected image-magnetic structure relationships 
 - Train model with GPU acceleration
 - Analyze the prediction accuracy 
 - The unet model can give accurate magnetic structure predictions by inputting random projection images
@@ -38,6 +38,7 @@ __Magnetic vector field reconstruction__
 __Using Generative Adversarial Network (GAN) to reconstruct Magnetic Property from projection images__
 
 - _Supervisor: Prof. Jiadong Zang_
+- Using the projection algorithm to project the three-dimensional magnetic structure into a two-dimensional picture
 - Build an autoencoder to analyze input images in manifold space
 - Build a generator to predict 3D magnetic properties by learning from input images
 - Building a discriminator to distinguish between real and fake generated magnetic structures
