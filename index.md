@@ -47,7 +47,7 @@ __Using Generative Adversarial Network (GAN) to reconstruct Magnetic Property fr
 - GAN models can predict magnetic structure by learning from projected images
 
 
-`Nov. 2018- Oct. 2020`
+`Nov. 2018 - Oct. 2020`
 __Computational work on the study of Metal organic framework__
 
 - _Supervisor: Prof. Craig Chapman_
