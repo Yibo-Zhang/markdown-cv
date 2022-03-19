@@ -82,6 +82,7 @@ __Permanent magnets calculation__
 
 `Nov. 2018- Oct. 2020`
 __Computational work on the study of Metal organic framework__
+
 - _Supervisor: Prof. Craig Chapman_
 - Maintain a Linux server for computational work.
 - Use python script to analyze data
@@ -89,7 +90,7 @@ __Computational work on the study of Metal organic framework__
 - Use SSH to submit calculation job to supercomputer
 - DFT calculation to study the property of molecule
 
-<!---
+
 
 `Nov. 2016-Oct. 2017`
 __Application of biochar for the removal of pollutants from water__
@@ -130,7 +131,7 @@ __Membrane electrode preparation and characterization__
 - Characterize membrane Internal structure by SEM, XRD, TGA
 - Test Charge and discharge performance of charge and discharge performance
 
--->
+
 
 ## Online learning and books
 ### Coursera
