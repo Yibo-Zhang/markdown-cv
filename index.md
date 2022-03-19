@@ -18,35 +18,7 @@ Intesting in materials science and machine learning
 
 Quantum mechanics, Materials scinece, Data mining, Linux, Web development, Big data, SQL, Data visualization, Machine Learning
 
-## Education
 
-`Jan. 2022-Now`
-__Georgia Institute of Technology, OMSCS.__
-
-- Computer science
-- Master's Degree
-
-`Sep. 2018-Now`
-__University of New Hampshire, Durham.__
-
-- Computational Chemistry
-- GPA: 3.69/4.0
-- PhD Candidate
-
-
-`Aug. 2015-May 2017`
-__Stony Brook University, New York__
-
-- Materials Science and Engineering
-- GPA: 3.56/4.0 
-- Master’s Degree
-
-`Sep. 2011-Jul. 2015`
-__Zhengzhou University, China__
-
-- Materials Chemistry, College of Materials Sciences and Engineering
-- GPA: 3.40/4.0
-- Bachelor’s Degree
 
 ## Professional Experience
 
@@ -156,6 +128,37 @@ __Membrane electrode preparation and characterization__
 - SQL, PySpark, Scala/Spark, OpenRefine, Tableau
 - AWS, GCP
 - Javascript, HTML, CSS, PHP, React, Angular 
+
+
+## Education
+
+`Jan. 2022-Now`
+__Georgia Institute of Technology, OMSCS.__
+
+- Computer science
+- Master's Degree
+
+`Sep. 2018-Now`
+__University of New Hampshire, Durham.__
+
+- Computational Chemistry
+- GPA: 3.69/4.0
+- PhD Candidate
+
+
+`Aug. 2015-May 2017`
+__Stony Brook University, New York__
+
+- Materials Science and Engineering
+- GPA: 3.56/4.0 
+- Master’s Degree
+
+`Sep. 2011-Jul. 2015`
+__Zhengzhou University, China__
+
+- Materials Chemistry, College of Materials Sciences and Engineering
+- GPA: 3.40/4.0
+- Bachelor’s Degree
 
 
 ## Work experience
