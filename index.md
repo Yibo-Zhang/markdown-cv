@@ -145,7 +145,7 @@ __University of New Hampshire, Durham.__
 
 - Computational Chemistry
 <!-- - GPA: 3.69/4.0 -->
-- PhD Candidate
+- PhD's Degree
 
 
 `Aug. 2015-May 2017`
