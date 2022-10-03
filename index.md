@@ -121,6 +121,9 @@ __Membrane electrode preparation and characterization__
 - PHP for Beginners – Become a PHP Master
 -->
 
+## Publications
+- MagNet: machine learning enhanced three-dimensional magnetic reconstruction (pending)
+
 ## Computer science-related Skills
 
 - Tensroflow, PyTorch, Numpy, Pandas, Scikit-learn, Microsoft Machine Learning Studio 
