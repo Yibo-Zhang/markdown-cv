@@ -101,10 +101,28 @@ __Self-cleaning coating__
 
 `Aug. 2014-Jun. 2015`
 __Membrane electrode preparation and characterization__
+
 - _Supervisor: Prof. Qun XU_
 - Preparation of MoS2/CNT membrane
 - Characterize membrane Internal structure by SEM, XRD, TGA
 - Test Charge and discharge performance of charge and discharge performance
+
+## Project
+
+
+
+__Analysis of Brazilian E-CommerceDataset by Olist__
+
+- Our analysis focused on customer satisfaction and buying power 
+- Various data exploratory methodologies (e.g., descriptive analysis,regression model, sentiment analysis)
+- visualization techniques (e.g., table, bar charts, maps, interactive data visualizations, etc.) 
+- enabled by Tableau, Python, pandas, SQLite, Matplotlib, D3, javascript
+- We analyzed geographic variation in Olist customers, type of merchandize, installment payment, etc. in order to improve customer satisfaction and increase selling.
+- Using the exploratory results, developed an algorithm recommending potential loyal customers for sellers and created an instrument in Tableau visualizing the filtering results. 
+
+## Publication
+
+[MagNet: machine learning enhanced three-dimensional magnetic reconstruction](https://arxiv.org/abs/2210.03066) 
 
 
 ## Online learning and books
@@ -129,7 +147,8 @@ __Membrane electrode preparation and characterization__
 - SQL, PySpark, Scala/Spark, OpenRefine, Tableau
 - AWS, GCP
 - Javascript, HTML, CSS, 
-<!-- - PHP, React, Angular -->
+- Java, Android Studio
+- <!-- - PHP, React, Angular -->
 
 
 ## Education

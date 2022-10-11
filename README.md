@@ -36,12 +36,28 @@ Any change you want to make to your CV from then on would have to be done on the
 
 ### II. Build it locally and print a PDF
 
-1. To [install jekyll](https://jekyllrb.com/docs/installation/), run `gem install bundler jekyll` from the command line.
-3. [Clone](https://help.github.com/en/articles/cloning-a-repository) your fork of markdown-cv to your local machine.
+1. Firstly, [install jekyll](https://jekyllrb.com/docs/installation/), follow this instruction.
+
+2. [Clone](https://help.github.com/en/articles/cloning-a-repository) your fork of markdown-cv to your local machine.
+
 3. `export GEM_HOME="$HOME/.gem"`
-3. Type `jekyll serve` to render your CV at http://localhost:4000.
-4. You can edit the `index.md` file and see the changes live in your browser.
-5. To print a PDF, press <kbd>⌘</kbd> + <kbd>p</kbd>. Print and web CSS media queries should take care of the styling.
+
+4. In the CV folder, `Touch Gemfile` (if it not exist)
+
+5. Type `jekyll serve` to render your CV at http://localhost:4000.
+
+6. If you meet any require error. then run:
+
+   ```shell
+   gem install packageName
+   bundle add packageName
+   ```
+
+7. Do step 5 and 6 many times until it can work.
+
+8. You can edit the `index.md` file and see the changes live in your browser.
+
+9. To print a PDF, press <kbd>⌘</kbd> + <kbd>p</kbd>. Print and web CSS media queries should take care of the styling.
 
 ## Styling
 
@@ -50,7 +66,7 @@ s
 1. `kjhealy` the original default, inspired by [kjhealy's vita
 template](https://github.com/kjhealy/kjh-vita).
 2. `davewhipp` is a tweaked version of `kjhealy`, with bigger fonts and dates
-  right aligned.
+    right aligned.
 
 To change the default style, simply change the variable in the
 `_config.yml` file.
