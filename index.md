@@ -3,58 +3,24 @@ layout: cv
 title: Yibo Zhang's CV
 ---
 # Yibo Zhang
-PhD candidate in Chemistry, University of New Hampshire
+
+Computational Chemistry PhD, UNH \| CS master, GIT
 
 <div id="webaddress">
 <i class="fa fa-envelope-square"></i> <a>mucherzhang@gmail.com</a>
-| <i class="fa fa-phone-square"></i> <a>3472428912</a>
+| <i class="fa fa-phone-square"></i> <a>3472428912</a> 
+| <a href="https://github.com/Yibo-Zhang"> <i class="fa fa-github"></i> </a>
+| <a href="https://www.linkedin.com/in/yibo-zhang/"> <i class="fa fa-linkedin"></i> </a>
 </div>
+
 
 
 ## Currently
 
-Intesting in materials science and machine learning 
+Intesting in and machine learning and data mining.
 ### Specialized in
 
-Machine Learning, Data mining, Linux, Web development, Big data, SQL, Data visualization, Virtualization
-
-
-
-## Professional Experience
-
-`Jan. 2022 – Now`
-__Magnetic vector field reconstruction__
-
-- _Supervisor: Prof. Jiadong Zang_
-- Generate Magnetic vector field training dataset with Julia
-- Use U-Net convolutional neural networks to learn projected image-magnetic structure relationships 
-- Train model with GPU acceleration with PyTorch
-- Analyze the prediction accuracy 
-- The U-Net model can give accurate magnetic structure predictions by inputting random projection images
-
-`Mar. 2021 – Jan. 2022`
-__Using Generative Adversarial Network (GAN) to reconstruct Magnetic Property from projection images__
-
-- _Supervisor: Prof. Jiadong Zang_
-- Use the projection algorithm to project the three-dimensional magnetic structure into two-dimensional pictures
-- Build an autoencoder to analyze input images in manifold space
-- Build a generator to predict 3D magnetic properties by learning from input images
-- Build a discriminator to distinguish between real and fake generated magnetic structures
-- Assemble the generator and discriminator to form a Generative Adversarial Network (GAN) model by using keras
-- Let two models learn against each other to improve their accuracy
-- Work with Computer clusters to accelerate training time 
-- GAN models can predict magnetic structure by learning from projected images
-
-`Nov. 2018 - Oct. 2020`
-__Computational work on the study of Metal organic framework__
-
-- _Supervisor: Prof. Craig Chapman_
-- Maintain a Linux server for computational work.
-- Use python script to analyze data
-- Use Jupyter notebook and python to manipulate the chemistry structure and generate input file
-- Remote manipulation of supercomputers
-- Density functional theory calculation to study the property of molecule
-
+Machine Learning, Data mining, Linux, Web development, Big data, SQL, Data visualization
 
 
 ## Computer Science Project
@@ -65,50 +31,82 @@ __Analysis of Brazilian E-CommerceDataset by Olist__
 
 - Our analysis focused on customer satisfaction and buying power
 - Various data exploratory methodologies (e.g., descriptive analysis,regression model, sentiment analysis)
-- visualization techniques (e.g., table, bar charts, maps, interactive data visualizations, etc.) 
-- enabled by Tableau, Python, pandas, SQLite, Matplotlib, D3, javascript
-- We analyzed geographic variation in Olist customers, type of merchandize, installment payment, etc. in order to improve customer satisfaction and increase selling.
-- Developed an algorithm for recommending potential loyal customers using exploratory results and created a tool in Tableau to visualize filtered results.
+- Visualization techniques enabled by Tableau, Python, pandas, SQLite, Matplotlib, D3, JavaScript.
+- We analyzed geographic variation in Olist customers, type of merchandise, etc. to improve customer satisfaction and increase selling.
+- Developed an algorithm for recommending customers.
 
-__Android Job and offers comparison App__
+__An Android app for job comparison__
 
 - An android app to help user to compare the Job the offers to find the most suitable job.
+- Apply the System design before implementation
+- Use the Unified Modeling Language(UML) to create the initial design based on the requirement
 - Design and implement the user interface
-- Use the Unified Modeling Language(UML) to create the initial design based on the requirment
-- MySQL is used to manage the data
+- Java and Android Studio are tools for developing the backend.
 - Weekly discussions with group members and commit our work on GitHub.
 - Manage the new feature with a new branch. 
 - We used unit and integration test to make sure our application works. 
 
 
+__Configurable SDN Firewall__
+- Use Software Defined Networking (SDN) principles to create a configurable firewall using an OpenFlow enabled Switch
+- Wrote customized firewall configuration to allow or block traffic and implemented in Mininet.
+- Examining contents of the IP and Protocol Headers using Wireshark.
 
 
-
-
-
-## Publication
-
-[MagNet: machine learning enhanced three-dimensional magnetic reconstruction](https://arxiv.org/abs/2210.03066) 
-
-## Computer science-related Skills
+## Computer science Skills
 
 - Tensroflow, PyTorch, Numpy, Pandas, Scikit-learn, Microsoft Machine Learning Studio 
-- Linux, Bash script, Docker
+- Linux, Bash, Git, Docker
 - D3, Matplotlib, Gnuplot
 - SQL, PySpark, Scala/Spark, OpenRefine, Tableau
 - AWS, GCP
-- Javascript, HTML, CSS, 
-- Java, Android Studio
-- <!-- - PHP, React, Angular -->
+- JavaScript, HTML, CSS, React
+- Java, Android Development
+- Computer Networking, pfSense
+
+
+## Professional Experience
+
+`Jan. 2022 – Now`
+__Magnetic vector field reconstruction__
+
+_Supervisor: Prof. Jiadong Zang_
+
+- Generate Magnetic vector field training dataset with Julia
+- Use U-Net convolutional neural networks to learn projected image-magnetic structure relationships 
+- Train model with GPU acceleration with PyTorch
+- Analyze the prediction accuracy 
+- The U-Net model can give accurate magnetic structure predictions by inputting random projection images
+
+`Mar. 2021 – Jan. 2022`
+__Reconstruction of Magnetic Property from projection images__
+
+_Supervisor: Prof. Jiadong Zang_
+
+- Use the projection algorithm to project the three-dimensional magnetic structure into two-dimensional pictures
+- Build an autoencoder to analyze input images in manifold space
+- Build a generator to predict 3D magnetic properties by learning from input images
+- Build a discriminator to distinguish between real and fake generated magnetic structures
+- Assemble the generator and discriminator to form a Generative Adversarial Network (GAN) model by using Keras
+- Let two models learn against each other to improve their accuracy
+- Work with Computer clusters to accelerate training time 
+- GAN models can predict magnetic structure by learning from projected images
+
+`Nov. 2018 - Oct. 2020`
+__Computational work on the study of Metal organic framework__
+
+_Supervisor: Prof. Craig Chapman_
+
+- Maintain a Linux server for computational work.
+- Use python script to analyze data
+- Use Jupyter notebook and python to manipulate the chemistry structure and generate input file
+- Remote manipulation of supercomputers
+- Density functional theory calculation to study the property of molecule
+
+
 
 
 ## Education
-
-`Jan. 2022-Now`
-__Georgia Institute of Technology, Online.__
-
-- Computer Science
-- Master's Degree
 
 `Sep. 2018-Now`
 __University of New Hampshire, Durham.__
@@ -116,6 +114,12 @@ __University of New Hampshire, Durham.__
 - Computational Chemistry
 <!-- - GPA: 3.69/4.0 -->
 - Doctoral Degree
+
+`Jan. 2022-Now`
+__Georgia Institute of Technology, Online.__
+
+- Computer Science
+- Master's Degree
 
 
 `Aug. 2015-May 2017`
@@ -133,7 +137,23 @@ __Zhengzhou University, China__
 - Bachelor’s Degree
 
 
+
+
+
+
+
+
+
+
+
+
+
+<!--- Deprecated ---!>
+
+<!---
+
 ## Work experience
+
 `Aug. 2019 - Now`
 
 - Research assistant - University of New Hampshire
@@ -146,13 +166,12 @@ __Zhengzhou University, China__
 
 - Research assistant - Stony Brook University
 
+## Publication
+
+[MagNet: machine learning enhanced three-dimensional magnetic reconstruction](https://arxiv.org/abs/2210.03066) 
 
 
 
-
-<!--- Deprecated ---!>
-
-<!---
 `Nov. 2020 - May 2021`
 __Permanent magnets calculation__
 
