@@ -40,7 +40,7 @@ __Analysis of Brazilian E-CommerceDataset by Olist__
 - We analyzed geographic variation in Olist customers, types of merchandise, etc. to improve customer satisfaction and increase sales.
 - We developed an algorithm for recommending customers.
 
-__An Android App for Job Comparison**
+__An Android App for Job Comparison__
 
 - We created an Android app to help users compare job offers and find the most suitable job.
 - We applied system design before implementation.
@@ -51,7 +51,7 @@ __An Android App for Job Comparison**
 - We managed new features with new branches.
 - We used unit and integration tests to ensure that our application works.
 
-**Configurable SDN Firewall**
+__Configurable SDN Firewall__
 
 - We used Software Defined Networking (SDN) principles to create a configurable firewall using an OpenFlow enabled Switch.
 - We wrote customized firewall configurations to allow or block traffic and implemented them in Mininet.
