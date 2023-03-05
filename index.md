@@ -20,42 +20,47 @@ Computational Chemistry PhD, UNH \| CS master, GIT
 Intesting in and machine learning and data mining.
 ### Specialized in
 
-Machine Learning, Data mining, Linux, Web development, Big data, SQL, Data visualization
+## Current Interests
+
+I am interested in machine learning and data mining.
+
+### Specializations
+
+I specialize in machine learning, data mining, Linux, web development, big data, SQL, and data visualization.
 
 
-## Computer Science Project
-
+## Computer Science Projects
 
 
 __Analysis of Brazilian E-CommerceDataset by Olist__
 
-- Our analysis focused on customer satisfaction and buying power
-- Various data exploratory methodologies (e.g., descriptive analysis,regression model, sentiment analysis)
-- Visualization techniques enabled by Tableau, Python, pandas, SQLite, Matplotlib, D3, JavaScript.
-- We analyzed geographic variation in Olist customers, type of merchandise, etc. to improve customer satisfaction and increase selling.
-- Developed an algorithm for recommending customers.
+- Our analysis focused on customer satisfaction and buying power.
+- We used various data exploratory methodologies (e.g., descriptive analysis, regression model, sentiment analysis).
+- Visualization techniques enabled by Tableau, Python, pandas, SQLite, Matplotlib, D3, and JavaScript.
+- We analyzed geographic variation in Olist customers, types of merchandise, etc. to improve customer satisfaction and increase sales.
+- We developed an algorithm for recommending customers.
 
-__An Android app for job comparison__
+__An Android App for Job Comparison**
 
-- An android app to help user to compare the Job the offers to find the most suitable job.
-- Apply the System design before implementation
-- Use the Unified Modeling Language(UML) to create the initial design based on the requirement
-- Design and implement the user interface
-- Java and Android Studio are tools for developing the backend.
-- Weekly discussions with group members and commit our work on GitHub.
-- Manage the new feature with a new branch. 
-- We used unit and integration test to make sure our application works. 
+- We created an Android app to help users compare job offers and find the most suitable job.
+- We applied system design before implementation.
+- We used the Unified Modeling Language (UML) to create the initial design based on the requirements.
+- We designed and implemented the user interface.
+- We used Java and Android Studio for developing the backend.
+- We held weekly discussions with group members and committed our work on GitHub.
+- We managed new features with new branches.
+- We used unit and integration tests to ensure that our application works.
+
+**Configurable SDN Firewall**
+
+- We used Software Defined Networking (SDN) principles to create a configurable firewall using an OpenFlow enabled Switch.
+- We wrote customized firewall configurations to allow or block traffic and implemented them in Mininet.
+- We examined the contents of the IP and Protocol Headers using Wireshark.
 
 
-__Configurable SDN Firewall__
-- Use Software Defined Networking (SDN) principles to create a configurable firewall using an OpenFlow enabled Switch
-- Wrote customized firewall configuration to allow or block traffic and implemented in Mininet.
-- Examining contents of the IP and Protocol Headers using Wireshark.
+## Computer Science Skills
 
-
-## Computer science Skills
-
-- Tensroflow, PyTorch, Numpy, Pandas, Scikit-learn, Microsoft Machine Learning Studio 
+- TensorFlow, PyTorch, NumPy, Pandas, Scikit-learn, Microsoft Machine Learning Studio
 - Linux, Bash, Git, Docker
 - D3, Matplotlib, Gnuplot
 - SQL, PySpark, Scala/Spark, OpenRefine, Tableau
@@ -67,74 +72,69 @@ __Configurable SDN Firewall__
 
 ## Professional Experience
 
-`Jan. 2022 – Now`
-__Magnetic vector field reconstruction__
+`Jan. 2022 – Now` 
+__Magnetic Vector Field Reconstruction__
 
-_Supervisor: Prof. Jiadong Zang_
+*Supervisor: Prof. Jiadong Zang*
 
-- Generate Magnetic vector field training dataset with Julia
-- Use U-Net convolutional neural networks to learn projected image-magnetic structure relationships 
-- Train model with GPU acceleration with PyTorch
-- Analyze the prediction accuracy 
-- The U-Net model can give accurate magnetic structure predictions by inputting random projection images
+- Generated a magnetic vector field training dataset with Julia.
+- Used U-Net convolutional neural networks to learn projected image-magnetic structure relationships.
+- Trained the model with GPU acceleration with PyTorch.
+- Analyzed the prediction accuracy.
+- The U-Net model can give accurate magnetic structure predictions by inputting random projection images.
 
 `Mar. 2021 – Jan. 2022`
-__Reconstruction of Magnetic Property from projection images__
+__Reconstruction of Magnetic Property from Projection Images__
 
-_Supervisor: Prof. Jiadong Zang_
+*Supervisor: Prof. Jiadong Zang*
 
-- Use the projection algorithm to project the three-dimensional magnetic structure into two-dimensional pictures
-- Build an autoencoder to analyze input images in manifold space
-- Build a generator to predict 3D magnetic properties by learning from input images
-- Build a discriminator to distinguish between real and fake generated magnetic structures
-- Assemble the generator and discriminator to form a Generative Adversarial Network (GAN) model by using Keras
-- Let two models learn against each other to improve their accuracy
-- Work with Computer clusters to accelerate training time 
-- GAN models can predict magnetic structure by learning from projected images
+- Used the projection algorithm to project the three-dimensional magnetic structure into two-dimensional pictures.
+- Built an autoencoder to analyze input images in manifold space.
+- Built a generator to predict 3D magnetic properties by learning from input images.
+- Built a discriminator to distinguish between real and fake generated magnetic structures.
+- Assembled the generator and discriminator to form a Generative Adversarial Network (GAN) model using Keras.
+- Let two models learn against each other to improve their accuracy.
+- Worked with computer clusters to accelerate training time.
+- GAN models can predict magnetic structure by learning from projected images.
 
-`Nov. 2018 - Oct. 2020`
-__Computational work on the study of Metal organic framework__
+`Nov. 2018 - Oct. 2020` 
+__Computational Work on the Study of Metal Organic Frameworks__
 
-_Supervisor: Prof. Craig Chapman_
+*Supervisor: Prof. Craig Chapman*
 
-- Maintain a Linux server for computational work.
-- Use python script to analyze data
-- Use Jupyter notebook and python to manipulate the chemistry structure and generate input file
-- Remote manipulation of supercomputers
-- Density functional theory calculation to study the property of molecule
+- Maintained a Linux server for computational work.
+- Used Python scripts to analyze data.
+- Used Jupyter notebook and Python to manipulate the chemistry structure and generate input files.
+- Remotely manipulated supercomputers.
+- Conducted density functional theory calculations to study the properties of molecules.
 
 
 
 
 ## Education
 
-`Sep. 2018-Now`
-__University of New Hampshire, Durham.__
+`Sep. 2018-Now` **University of New Hampshire, Durham**
 
 - Computational Chemistry
-<!-- - GPA: 3.69/4.0 -->
 - Doctoral Degree
 
-`Jan. 2022-Now`
-__Georgia Institute of Technology, Online.__
+`Jan. 2022-Now` **Georgia Institute of Technology, Online**
 
 - Computer Science
 - Master's Degree
 
-
-`Aug. 2015-May 2017`
-__Stony Brook University, New York__
+`Aug. 2015-May 2017` **Stony Brook University, New York**
 
 - Materials Science and Engineering
-<!-- - GPA: 3.56/4.0 -->
 - Master’s Degree
 
-`Sep. 2011-Jul. 2015`
-__Zhengzhou University, China__
+`Sep. 2011-Jul. 2015` **Zhengzhou University, China**
 
 - Materials Chemistry, College of Materials Sciences and Engineering
-<!-- - GPA: 3.40/4.0 -->
 - Bachelor’s Degree
+
+
+
 
 
 
