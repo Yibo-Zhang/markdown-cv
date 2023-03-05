@@ -12,14 +12,6 @@ Computational Chemistry PhD, UNH \| CS master, GIT
 | <a href="https://github.com/Yibo-Zhang"> <i class="fa fa-github"></i> </a>
 | <a href="https://www.linkedin.com/in/yibo-zhang/"> <i class="fa fa-linkedin"></i> </a>
 </div>
-
-
-
-## Currently
-
-Intesting in and machine learning and data mining.
-### Specialized in
-
 ## Current Interests
 
 I am interested in machine learning and data mining.
@@ -68,6 +60,7 @@ __Configurable SDN Firewall__
 - JavaScript, HTML, CSS, React
 - Java, Android Development
 - Computer Networking, pfSense
+- C#, Unity engine
 
 
 ## Professional Experience
