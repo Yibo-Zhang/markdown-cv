@@ -4,7 +4,7 @@ title: Yibo Zhang's CV
 ---
 # Yibo Zhang
 
-Computational Chemistry PhD, UNH \| CS master, GIT
+Computational Chemistry PhD, UNH \| Computer Science master, GIT
 
 <div id="webaddress">
 <i class="fa fa-envelope-square"></i> <a>mucherzhang@gmail.com</a>
