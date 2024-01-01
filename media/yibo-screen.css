@@ -50,7 +50,6 @@ table {
 /* end of reset */
 
 
-
 body {
 	font: normal normal 400;
 	font-size: 100%;
@@ -61,10 +60,16 @@ body {
 	margin-left: 1em;
 }
 
+
+.resume-container {
+    display: flex;
+}
+
+
 p {
 	position: relative;
 	left: 25%;
-	margin-bottom: 0.7em;
+	margin-bottom: 0.0em;
 	margin-right: 0;
 	width: 55%;
 }
@@ -88,16 +93,16 @@ ul {
 	position: relative;
 	left: 25%;
 	width: 75%;
-	margin-bottom: 1.5em;
+	margin-bottom: 0.5em;
 	margin-top: -0.5em;
 }
 
 /*uncomment to get dashes in the list*/
-li:before {
+/* li:before {
 	content: "-";
 	position: relative;
 	left: -0.25em;
-}
+} */
 
 li {
 	/*second line indent*/
@@ -136,12 +141,53 @@ h1+p {
 h2 {
 	font-size: 1.1em;
 	color: #bc412b;
-	margin-top: 3em;
+	margin-top: 0em;
 	position: relative;
 	top: 1.4em;
 	text-align: right;
 	width: 20%;
 }
+
+/* h2#current-interests {
+	font-size: 1.1em;
+	color: #bc412b;
+	margin-top: 0em;
+	position: relative;
+	top: 1.4em;
+	text-align: right;
+	width: 20%;
+} */
+
+/* h2#projects {
+	font-size: 1.1em;
+	color: #bc412b;
+	margin-top: 0em;
+	position: relative;
+	top: 1.4em;
+	text-align: right;
+	width: 20%;
+} */
+
+/* Computer Science Skills */
+h2.left{
+	font-size: 1.1em;
+	color: #bc412b;
+	margin-top: 0em;
+	position: relative;
+	top: 1.4em;
+	text-align: right;
+	width: 20%;
+}
+
+h2.left+ul{
+	margin-top: 1.4em;
+	position: relative;
+	top: 1.4em;
+	text-align: right;
+	width: 20%;
+	left: 0;
+}
+
 
 h3 {
 	font-size: 1em;
@@ -183,8 +229,131 @@ strong {
 	font-weight: bold;
 }
 
+
+
 #address {
 	display: none;
+}
+
+
+/* Left */
+.left-column {
+    flex: 3; /* 左侧栏占据一定空间 */
+    padding: 40px;
+}
+
+.left-column h2 {
+	font-size: 1.1em;
+	color: #bc412b;
+	margin-top: 0em;
+	position: relative;
+	top: 1.4em;
+	text-align: right;
+	width: 100%;
+}
+
+
+.left-column ul{
+	margin-top: 0em;
+	position: relative;
+	top: 1.4em;
+	text-align: right;
+	width: 100%;
+	left: 0;
+}
+
+.left-column p{
+	/* margin-top: 1.4em; */
+	position: relative;
+	/* top: 1.4em; */
+	text-align: right;
+	width: 100%;
+	Left: 0 ;
+}
+.left-column strong{
+	/* font-size: 1.1em; */
+	/* color: #bc412b; */
+	margin-top: 0em;
+	position: relative;
+	top: 1.4em;
+	text-align: left;
+	width: 100%;
+}
+.left-column li:after {
+	content: "•";
+	position: relative;
+	right: -0.25em;
+}
+
+/* Right */
+.right-column {
+    flex: 9; /* 右侧栏占据更多空间 */
+    padding: 10px;
+}
+
+.right-column li:before {
+	content: "-";
+	position: relative;
+	left: -0.25em;
+}
+
+.right-column h2 {
+	font-size: 1.1em;
+	color: #bc412b;
+	margin-top: 0em;
+	margin-bottom: 0em;
+	position: relative;
+	top: 1.4em;
+	text-align: Left;
+	width: 100%;
+}
+
+.right-column h2+p{
+	margin-top: 1.4em;
+}
+
+.right-column h3{
+	position: relative;
+	text-align: Left;
+	width: 100%;
+	margin-bottom: 0em;
+
+}
+
+.right-column ul{
+	margin-top: 0.4em;
+	margin-bottom: 0em;
+	position: relative;
+	top: 0em;
+	text-align: Left;
+	width: 100%;
+	left: 0;
+}
+
+.right-column p+ul{
+	margin-top: 0.8em;
+}
+
+.right-column strong{
+	/* font-size: 1.1em; */
+	/* color: #bc412b; */
+	margin-top: 1.4em;
+	position: relative;
+	top: 0em;
+	margin-bottom: 0.2em;
+	text-align: Left;
+	width: 100%;
+}
+
+.right-column p{
+	/* margin-top: 1.4em; */
+	position: relative;
+	top: 1.0em;
+	text-align: Left;
+	width: 100%;
+	left: 0;
+	margin-bottom: 0.4em;
+	bottom: 0.4em;
 }
 
 
