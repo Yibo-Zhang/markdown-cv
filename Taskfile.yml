@@ -1,0 +1,13 @@
+version: "3"
+
+tasks:
+  activate_env:
+    cmds:
+      - nix shell nixpkgs#jekyll
+
+  serve:
+    cmds:
+      - jekyll serve --host=0.0.0.0 -P 5001
+  build:
+    cmds:
+      - jekyll build
