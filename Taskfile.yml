@@ -7,7 +7,7 @@ tasks:
 
   serve:
     cmds:
-      - jekyll serve -P 5000
+      - jekyll serve -P 5000 -H 0.0.0.0
   build:
     cmds:
       - jekyll build

@@ -21,9 +21,33 @@ Machine Learning, Deep Learning, Data mining, Linux, Web development, Big data, 
 
 
 ## Professional Experience
+`Jan. 2024 - Present`
+__Northeast Materials Database (NEMAD): Enabling Discovery of High Transition Temperature Magnetic Compounds__
 
+- _Supervisor: Prof. Jiadong Zang_
+- Developed a comprehensive database of 26,706 magnetic materials using GPTArticleExtractor workflow
+- Incorporated chemical composition, structural details, and magnetic properties for each entry
+- Built machine learning models to classify materials and predict Curie and Néel temperatures
+- Achieved 90% accuracy in classifying materials as ferromagnetic, antiferromagnetic, or non-magnetic
+- Developed regression models predicting Curie temperature with R² of 0.86 and MAE of 62K
+- Created regression models for Néel temperature prediction with R² of 0.85 and MAE of 32K
+- Screened Materials Project database, identifying 62 potential high Curie temperature (>500K) ferromagnetic candidates
+- Established a user-friendly website (www.nemad.org) to host and provide access to the NEMAD database
 
-`Jan. 2022 – Now`
+`Jan. 2023 - Jan. 2024`
+__GPTArticleExtractor: Automated Magnetic Materials Database Construction__
+
+- _Supervisor: Prof. Jiadong Zang_
+- Developed an innovative workflow using large language models to extract key information from scientific literature
+- Created a comprehensive database of 2,035 magnetic materials from 22,120 articles in the Journal of Magnetism and Magnetic Materials
+- Extracted and verified key material properties including chemical composition, structure, and magnetic temperatures
+- Achieved an 83.2% accuracy rate in identifying relevant articles and extracting useful information
+- Implemented a vector database approach to enhance the relevance and quality of extracted information
+- Utilized GPT-3.5 and GPT-4 models for different stages of the extraction process, optimizing for both efficiency and accuracy
+- Analyzed the distribution of Curie and Néel temperatures across different materials and space groups
+- Created a publicly accessible database at MagneticMaterials.org for wider scientific community use
+
+`Jan. 2022 – Jan. 2023`
 __Magnetic vector field reconstruction__
 
 - _Supervisor: Prof. Jiadong Zang_
@@ -34,7 +58,7 @@ __Magnetic vector field reconstruction__
 - The U-Net model can give accurate magnetic structure predictions by inputting random projection images
 
 
-`Mar. 2021 – Now`
+`Mar. 2021 – Jan. 2022`
 __Using Generative Adversarial Network (GAN) to reconstruct Magnetic Property from projection images__
 
 - _Supervisor: Prof. Jiadong Zang_
@@ -181,3 +205,38 @@ __Zhengzhou University, China__
 <!-- ### Footer
 
 Last updated: May 2021 -->
+
+## Publications
+
+**Northeast Materials Database (NEMAD): Enabling Discovery of High Transition Temperature Magnetic Compounds**
+
+Itani, S., Zhang, Y., & Zang, J.
+arXiv preprint arXiv:2409.15675 (2024)
+
+**GPTArticleExtractor: An automated workflow for magnetic material database construction**
+
+Zhang, Y., Itani, S., Khanal, K., Okyere, E., Smith, G., Takahashi, K., & Zang, J.
+Journal of Magnetism and Magnetic Materials, 597, 172001 (2024)
+
+**Three-dimensional magnetization reconstruction from electron optical phase images with physical constraints**
+
+Lyu, B., Zhao, S., Zhang, Y., Wang, W., Zheng, F., Dunin-Borkowski, R. E., Zang, J., & Du, H.
+Science China Physics, Mechanics & Astronomy, 67(11), 1-11 (2024)
+
+
+**MagNet: machine learning enhanced three-dimensional magnetic reconstruction**
+
+Lyu, B., Zhao, S., Zhang, Y., Wang, W., Du, H., & Zang, J.
+arXiv preprint arXiv:2210.03066 (2022)
+## Conferences
+
+`October 2, 2024`
+__IEEE AtC-AtG Magnetics Conference 2024__
+
+- Oral presentation: "Comprehensive Database of Magnetic Materials Using AI-Driven Methodologies"
+
+`October 14, 2022`
+__2022 Fall meeting of the New England sections (NES) of APS__
+
+
+- Poster presentation: "MagNet: machine learning enhanced three-dimensional magnetic reconstruction"
