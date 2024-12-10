@@ -3,11 +3,11 @@ layout: cv
 title: Yibo Zhang's CV
 ---
 # Yibo Zhang
-PhD in Chemistry, University of New Hampshire
+PhD in computational chemistry, University of New Hampshire
 
 <div id="webaddress">
-<i class="fa fa-envelope-square"></i> <a>mucherzhang@gmail.com</a>
-| <i class="fa fa-phone-square"></i> <a>3472428912</a>
+    <i class="fa fa-envelope-square"></i> <a>mucherzhang@gmail.com</a>
+    <i class="fa fa-phone-square"></i> <a>3472428912</a>
 </div>
 
 
@@ -33,12 +33,13 @@ __Northeast Materials Database (NEMAD) Project__
 __GPTArticleExtractor: Large-Scale Data Mining Project__
 
 - Designed and implemented an NLP pipeline leveraging LLMs to extract structured data from 22,000+ scientific papers
+- Integrated YOLOv8 model for automated segmentation of figures and text regions in research papers
 - Achieved 83% accuracy in automated information extraction, reducing manual processing time by 90%
 - Engineered vector embedding system for semantic search, improving information retrieval accuracy by 45%
 - Developed custom data validation framework ensuring 95%+ data quality
 - Created scalable ETL pipeline processing 10000+ papers per hour
 - Built interactive dashboard for real-time data visualization and analysis
-- _Tech Stack_: Python, LangChain, OpenAI API, Prompt Engineering, Vector DB, PostgreSQL
+- _Tech Stack_: Python, LangChain, OpenAI API, Computer Vision, Prompt Engineering, Vector DB, PostgreSQL
 
 `Jan. 2022 – Jan. 2023`
 __Deep Learning for Vector Field Reconstruction__
