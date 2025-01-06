@@ -1,0 +1,7 @@
+version: '3'
+
+tasks:
+  generate:
+    desc: Generate PDF from markdown using pandoc
+    cmds:
+      - pandoc cover_letter.md -o cover_letter.pdf --pdf-engine=xelatex

@@ -13,7 +13,7 @@ PhD in computational chemistry, University of New Hampshire
 
 ## Currently
 
-Intesting in materials science and machine learning 
+Interesting in materials science and machine learning 
 ### Specialized in
 
 Machine Learning, Deep Learning, Scientific Computing, Materials Informatics, Data Engineering, Cloud Computing, Full Stack Development
@@ -54,6 +54,17 @@ __Deep Learning for Vector Field Reconstruction__
 - Created automated testing framework for model validation
 - _Tech Stack_: PyTorch, CUDA, NumPy, OpenCV, SciPy, Linux, CNNs, ResNet
 
+`Jan. 2023 - May. 2023`
+__Job Comparison Android Application__
+
+- Architected and developed Android application for comparing job offers using Java and Android Studio
+- Implemented systematic design approach using UML diagrams for initial architecture planning
+- Designed and built intuitive user interface following Material Design principles
+- Established Git workflow with feature branching strategy for team collaboration
+- Created comprehensive testing suite including unit and integration tests
+- Led weekly team meetings and coordinated development efforts through GitHub
+- Managed feature implementation through agile development process
+- _Tech Stack_: Java, Android Studio, Git, UML, Material Design, JUnit
 
 `Nov. 2018 - Oct. 2020`
 __Large-Scale Computational Analysis Platform__
@@ -64,6 +75,18 @@ __Large-Scale Computational Analysis Platform__
 - Implemented version control and documentation system for reproducible research
 - Reduced analysis time by 80% through process automation
 - _Tech stack_: Python, Linux, Git, Jupyter, Matplotlib
+
+`Aug. 2023 - Nov. 2023`
+__Brazilian E-Commerce Analysis Project__
+
+- Conducted comprehensive analysis of Olist dataset focusing on customer satisfaction and purchasing patterns
+- Developed predictive models using regression analysis and sentiment analysis techniques
+- Created interactive dashboards and visualizations using Tableau, D3.js, and Matplotlib
+- Performed geographic distribution analysis to identify regional sales patterns and opportunities
+- Engineered recommendation system algorithm improving customer product discovery
+- Implemented data processing pipeline handling 100,000+ transaction records
+- Built interactive web-based visualization platform for real-time data exploration
+- _Tech Stack_: Python (pandas), SQLite, Tableau, D3.js, JavaScript, Machine Learning
 
 
 
