@@ -8,6 +8,7 @@ PhD in computational chemistry, University of New Hampshire
 <div id="webaddress">
     <i class="fa fa-envelope-square"></i> <a>mucherzhang@gmail.com</a>
     <i class="fa fa-phone-square"></i> <a>3472428912</a>
+    <i class="fa fa-home"></i> <a>21 Olde Madbury Ln, Dover, NH 03820</a>
 </div>
 
 
